@@ -16,6 +16,8 @@ h1{
 span a{
 	text-decoration: none;
 	color: white;
+	margin-left: auto;
+    	margin-right: auto;
 }
 
 span a:hover{

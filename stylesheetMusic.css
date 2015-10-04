@@ -1,0 +1,8 @@
+body{
+	background-image: url("media/greenBack.jpg");
+	background-color: #556B2F;
+	text-align: center;
+	color: gray;
+	font-size: 2em;
+	font-family: sans-serif;
+}
